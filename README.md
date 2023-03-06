@@ -3,6 +3,8 @@
 The "FloydWarshallAlgorithmPhilipSeba" is a code containing a recursive solution to the Floyd's algorithm\
 provided in the University of Liverpool's module CSCK541 "Software Development in Practice Jan 2023 A" as programming practice. 
 
+THe code includes a performance test.
+
 Programming language is as Python 3. The code was written using an PyCharm IDE. 
 
 The code is ready to be applied in an IDE for Python. 
