@@ -18,3 +18,4 @@ The code has been tested with unit and performance tests. See also "Report".
 The code is under no license. 
 
 Author: Philip Seba. 06.02.2023.
+ 
