@@ -9,7 +9,7 @@ Programming language is as Python 3. The code was written using an PyCharm IDE.
 
 The code is ready to be applied in an IDE for Python. 
 
-The code can be assessed as well on the author's GitHub account: phseba. 
+The code can be assessed as well on the author's GitHub account: [phseba.](https://github.com/phseba/FloydWarshallAlgorithm2PhilipSeba.git) 
 
 The Python code requires the importation of "sys" and "itertools". 
 
