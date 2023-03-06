@@ -56,6 +56,9 @@ def printSolution(distance):
 # Function call
 floyd(graph)
 
+# Print docstring
+print(floyd.__doc__)
+
 # Performance Test
 import timeit
 
