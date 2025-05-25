@@ -1,7 +1,6 @@
 # FloydWarshallAlgorithm2PhilipSeba
 
-The "FloydWarshallAlgorithmPhilipSeba" is a code containing a recursive solution to the Floyd's algorithm\
-provided in the University of Liverpool's module CSCK541 "Software Development in Practice Jan 2023 A" as programming practice. 
+The "FloydWarshallAlgorithmPhilipSeba" is a recursive version of a Floyd's algorithm solution provided by the University of Liverpool.
 
 The code includes a performance test.
 
