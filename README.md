@@ -1,10 +1,10 @@
 # FloydWarshallAlgorithm2PhilipSeba
 
-The "FloydWarshallAlgorithmPhilipSeba" is a recursive version of a Floyd's algorithm solution provided by the University of Liverpool.
+The "FloydWarshallAlgorithmPhilipSeba" is the recursive version of a Floyd's algorithm solution provided by the University of Liverpool.
 
 The code includes a performance test.
 
-Programming language is as Python 3. The code was written using an PyCharm IDE. 
+Programming language is Python 3. The code was written using PyCharm IDE. 
 
 The code is ready to be applied in an IDE for Python. 
 
